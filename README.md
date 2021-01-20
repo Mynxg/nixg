@@ -3,6 +3,6 @@ My personal modified hexo matery theme with some bugs fixed, modified from [hexo
 
 # Demo
 [https:/nxg.com](https://nxg.com)
-/godweiyang
+/
 # Usage
 [https://nxg.com/2018/04/13/hexo-blog/](https://nxg.com/2018/04/13/hexo-blog/)
